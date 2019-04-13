@@ -15,8 +15,9 @@ This is the description for my class.
 
 -   `settings` **[Object][5]** A config object
 ```javascript
-    new Carousel({});
-    ```
+var s = "JavaScript syntax highlighting";
+alert(s);
+```
 
 ## reinit
 
