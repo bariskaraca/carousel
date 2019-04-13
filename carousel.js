@@ -5,6 +5,33 @@ function addListenerMulti(element, eventNames, listener) {
         element.addEventListener(events[i], listener, false);
     }
 }
+Element.prototype.appendAfter = function (element) {
+    element.parentNode.insertBefore(this, element.nextSibling);
+};
+Element.prototype.appendBefore = function (element) {
+    element.parentNode.insertBefore(this, element);
+};
+Element.prototype.appendAll = function (nodes) {
+    for(let node of nodes)
+        this.appendChild(node);
+};
+Element.prototype.removeAll = function (selector) {
+    for(let el of this.querySelectorAll(selector))
+        el.remove();
+};
+NodeList.prototype.toArray = function(){
+    return Array.prototype.slice.call(this)
+};
+/**
+ * This is the description for my class.
+ *
+ * @class Carousel
+ * @constructor
+ * @param {Object} settings A config object
+ * ```Cycript
+ * new Carousel({});
+ * ```
+ */
 function Carousel(settings){
     let options = {
         autoPlay: 5000,
@@ -27,25 +54,12 @@ function Carousel(settings){
     this.index = 0;
     this.reinit();
 }
-Element.prototype.appendAfter = function (element) {
-    element.parentNode.insertBefore(this, element.nextSibling);
-};
-Element.prototype.appendBefore = function (element) {
-    element.parentNode.insertBefore(this, element);
-};
-Element.prototype.appendAll = function (nodes) {
-    console.log(nodes)
-    for(let node of nodes)
-        this.appendChild(node);
-};
-Element.prototype.removeAll = function (selector) {
-    for(let el of this.querySelectorAll(selector))
-        el.remove();
-};
-NodeList.prototype.toArray = function(){
-    return Array.prototype.slice.call(this)
-};
 Carousel.prototype = {
+    /**
+     * This is the description for my class.
+     *
+     * @method reinit
+     */
     reinit: function () {
         const that = this;
         this.items = this.element.querySelectorAll("div.slide:not(.extra_slide)").toArray();
@@ -115,6 +129,11 @@ Carousel.prototype = {
             this.element.defaultWidth = (this.element.getBoundingClientRect().width) + "px";
         }
     },
+    /**
+     * This is the description for my class.
+     *
+     * @method addSlide
+     */
     addSlide: function(html){
         let slide = document.createElement("div");
         slide.classList.add("slide");
@@ -225,7 +244,7 @@ Carousel.prototype = {
         action = action.split('-')[1];
         if(action === "next") {
             that.element.style.transitionTimingFunction = that.transitionTimingFunction;
-            // this.element.style.transition = "margin-left " + that.animationTime + "ms";
+            this.element.style.transition = "margin-left " + that.animationTime + "ms";
             this.element.style.webkitTransition = "margin-left " + that.animationTime + "ms";
             if(that.loop){
                 let items = that.element.querySelectorAll(".slide");
