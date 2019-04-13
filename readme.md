@@ -13,7 +13,7 @@ This is the description for my class.
 
 ### Parameters
 
--   `settings` **[Object][5]** A config object```Cycript
+-   `settings` **[Object][5]** A config object```javascript
     new Carousel({});
     ```
 
