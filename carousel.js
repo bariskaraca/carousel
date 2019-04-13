@@ -28,9 +28,15 @@ NodeList.prototype.toArray = function(){
  * @class Carousel
  * @constructor
  * @param {Object} settings A config object
- * ```Cycript
- * new Carousel({});
- * ```
+ * @example new Carousel({
+ *      autoPlay: 5000, //ms
+ *      animationTime: 5000,//ms
+ *      visibleItemCount: 2,
+ *      transitionTimingFunction: "linear", // linear, ease, ease-in, ease-out, ease-in-out
+ *      center: true,
+ *      vCenter: true,
+ *      loop: true
+ * });
  */
 function Carousel(settings){
     let options = {

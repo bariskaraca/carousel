@@ -4,8 +4,9 @@
 
 -   [Carousel][1]
     -   [Parameters][2]
--   [reinit][3]
--   [addSlide][4]
+    -   [Examples][3]
+-   [reinit][4]
+-   [addSlide][5]
 
 ## Carousel
 
@@ -13,10 +14,20 @@ This is the description for my class.
 
 ### Parameters
 
--   `settings` **[Object][5]** A config object
+-   `settings` **[Object][6]** A config object
+
+### Examples
+
 ```javascript
-var s = "JavaScript syntax highlighting";
-alert(s);
+new Carousel({
+     autoPlay: 5000, //ms
+     animationTime: 5000,//ms
+     visibleItemCount: 2,
+     transitionTimingFunction: "linear", // linear, ease, ease-in, ease-out, ease-in-out
+     center: true,
+     vCenter: true,
+     loop: true
+});
 ```
 
 ## reinit
@@ -31,8 +42,10 @@ This is the description for my class.
 
 [2]: #parameters
 
-[3]: #reinit
+[3]: #examples
 
-[4]: #addslide
+[4]: #reinit
 
-[5]: https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Object
+[5]: #addslide
+
+[6]: https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Object
