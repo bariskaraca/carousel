@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7afb654e-efe5-44ce-b1e0-66e929a0c9be" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/main.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="282">
+              <caret line="122" column="41" selection-start-line="122" selection-start-column="41" selection-end-line="122" selection-end-column="41" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/carousel.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="228" column="33" lean-forward="true" selection-start-line="228" selection-start-column="33" selection-end-line="228" selection-end-column="33" />
+              <folding>
+                <element signature="n#!!block;n#addListenerMulti#0" />
+                <element signature="e#150#284#0" />
+                <element signature="n#!!block;n#Carousel#0" />
+                <element signature="e#3187#4300#0" />
+                <element signature="e#4485#4501#0" />
+                <element signature="e#4035#4513#0" />
+                <element signature="e#4820#5560#0" />
+                <element signature="e#5930#5946#0" />
+                <element signature="e#4482#6608#0" />
+                <element signature="e#5465#5985#0" />
+                <element signature="e#6075#6600#0" />
+                <element signature="e#6654#7115#0" />
+                <element signature="e#10212#10481#0" />
+                <element signature="e#10510#11360#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/carousel_old.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1710">
+              <caret line="95" column="4" selection-start-line="95" selection-start-column="4" selection-end-line="95" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/carousel.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="91" selection-end-column="1" />
+              <folding>
+                <element signature="e#158#185#0" />
+                <element signature="e#215#235#0" />
+                <element signature="e#259#369#0" />
+                <element signature="e#409#537#0" />
+                <element signature="e#575#703#0" />
+                <element signature="e#797#854#0" />
+                <element signature="e#914#993#0" />
+                <element signature="e#1005#1066#0" />
+                <element signature="e#1078#1140#0" />
+                <element signature="e#1149#1188#0" />
+                <element signature="e#1201#1396#0" />
+                <element signature="e#1413#1550#0" />
+                <element signature="e#1574#1608#0" />
+                <element signature="e#1620#1705#0" />
+                <element signature="e#1706#1809#0" />
+                <element signature="e#1810#1929#0" />
+                <element signature="e#1950#2053#0" />
+                <element signature="e#2054#2167#0" />
+                <element signature="e#2168#2289#0" />
+                <element signature="e#2302#2389#0" />
+                <element signature="e#2390#2495#0" />
+                <element signature="e#2496#2625#0" />
+                <element signature="e#2647#2752#0" />
+                <element signature="e#2753#2866#0" />
+                <element signature="e#2867#3004#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>`</find>
+      <find>getimg</find>
+      <find>this.intervalTime</find>
+      <find>that.intervalTime</find>
+      <find>slide</find>
+      <find>classList.add(&quot;hide&quot;)</find>
+      <find>slide_</find>
+      <find>slide_im</find>
+      <find>slide_img</find>
+      <find>goto</find>
+      <find>.remove</find>
+      <find>that.action</find>
+      <find>parsein</find>
+      <find>animate_slide_show</find>
+      <find>minwid</find>
+      <find>items</find>
+      <find>insert</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>127.0.0.1:8000/getimg</replace>
+      <replace>slide</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/carousel.css" />
+        <option value="$PROJECT_DIR$/carousel.js" />
+        <option value="$PROJECT_DIR$/main.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="25" />
+    <option name="width" value="960" />
+    <option name="height" value="1055" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Carousel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Carousel" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/imgs" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7afb654e-efe5-44ce-b1e0-66e929a0c9be" name="Default Changelist" comment="" />
+      <created>1554373863925</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554373863925</updated>
+      <workItem from="1554373865211" duration="3640000" />
+      <workItem from="1554450266825" duration="28391000" />
+      <workItem from="1554919572754" duration="3936000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="35967000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="25" width="1920" height="1055" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25506938" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Command Line Tools Console" order="10" weight="0.3297414" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.3297414" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/carousel_old.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1710">
+          <caret line="95" column="4" selection-start-line="95" selection-start-column="4" selection-end-line="95" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/carousel.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="91" selection-end-column="1" />
+          <folding>
+            <element signature="e#158#185#0" />
+            <element signature="e#215#235#0" />
+            <element signature="e#259#369#0" />
+            <element signature="e#409#537#0" />
+            <element signature="e#575#703#0" />
+            <element signature="e#797#854#0" />
+            <element signature="e#914#993#0" />
+            <element signature="e#1005#1066#0" />
+            <element signature="e#1078#1140#0" />
+            <element signature="e#1149#1188#0" />
+            <element signature="e#1201#1396#0" />
+            <element signature="e#1413#1550#0" />
+            <element signature="e#1574#1608#0" />
+            <element signature="e#1620#1705#0" />
+            <element signature="e#1706#1809#0" />
+            <element signature="e#1810#1929#0" />
+            <element signature="e#1950#2053#0" />
+            <element signature="e#2054#2167#0" />
+            <element signature="e#2168#2289#0" />
+            <element signature="e#2302#2389#0" />
+            <element signature="e#2390#2495#0" />
+            <element signature="e#2496#2625#0" />
+            <element signature="e#2647#2752#0" />
+            <element signature="e#2753#2866#0" />
+            <element signature="e#2867#3004#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/carousel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="228" column="33" lean-forward="true" selection-start-line="228" selection-start-column="33" selection-end-line="228" selection-end-column="33" />
+          <folding>
+            <element signature="n#!!block;n#addListenerMulti#0" />
+            <element signature="e#150#284#0" />
+            <element signature="n#!!block;n#Carousel#0" />
+            <element signature="e#3187#4300#0" />
+            <element signature="e#4485#4501#0" />
+            <element signature="e#4035#4513#0" />
+            <element signature="e#4820#5560#0" />
+            <element signature="e#5930#5946#0" />
+            <element signature="e#4482#6608#0" />
+            <element signature="e#5465#5985#0" />
+            <element signature="e#6075#6600#0" />
+            <element signature="e#6654#7115#0" />
+            <element signature="e#10212#10481#0" />
+            <element signature="e#10510#11360#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="122" column="41" selection-start-line="122" selection-start-column="41" selection-end-line="122" selection-end-column="41" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
