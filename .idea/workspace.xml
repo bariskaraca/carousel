@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7afb654e-efe5-44ce-b1e0-66e929a0c9be" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/carousel.js" beforeDir="false" afterPath="$PROJECT_DIR$/carousel.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,13 +11,18 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="122" column="43" lean-forward="true" selection-start-line="122" selection-start-column="43" selection-end-line="122" selection-end-column="90" />
+            <state relative-caret-position="1830">
+              <caret line="122" column="43" selection-start-line="122" selection-start-column="43" selection-end-line="122" selection-end-column="90" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -29,8 +33,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/carousel.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="29" column="43" lean-forward="true" selection-start-line="29" selection-start-column="43" selection-end-line="29" selection-end-column="43" />
+            <state relative-caret-position="182">
+              <caret line="42" column="22" selection-start-line="42" selection-start-column="22" selection-end-line="42" selection-end-column="22" />
               <folding>
                 <element signature="n#!!block;n#addListenerMulti#0" />
                 <element signature="e#150#284#0" />
@@ -39,18 +43,6 @@
                 <element signature="e#563#625#0" />
                 <element signature="e#677#752#0" />
                 <element signature="e#793#840#0" />
-                <element signature="e#1008#4454#0" />
-                <element signature="e#3187#4300#0" />
-                <element signature="e#4485#4501#0" />
-                <element signature="e#4035#4513#0" />
-                <element signature="e#4820#5560#0" />
-                <element signature="e#5930#5946#0" />
-                <element signature="e#4482#6608#0" />
-                <element signature="e#5465#5985#0" />
-                <element signature="e#6075#6600#0" />
-                <element signature="e#6654#7115#0" />
-                <element signature="e#10212#10481#0" />
-                <element signature="e#10510#11360#0" />
               </folding>
             </state>
           </provider>
@@ -67,27 +59,9 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/yuidoc.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/carousel_old.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1710">
+            <state relative-caret-position="1425">
               <caret line="95" column="4" selection-start-line="95" selection-start-column="4" selection-end-line="95" selection-end-column="4" />
             </state>
           </provider>
@@ -96,7 +70,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/carousel.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
+            <state relative-caret-position="270">
               <caret line="45" selection-start-line="45" selection-end-line="91" selection-end-column="1" />
               <folding>
                 <element signature="e#158#185#0" />
@@ -187,23 +161,15 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Carousel" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Carousel" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -241,6 +207,7 @@
       <workItem from="1554373865211" duration="3640000" />
       <workItem from="1554450266825" duration="28391000" />
       <workItem from="1554919572754" duration="3936000" />
+      <workItem from="1564417345253" duration="7000" />
     </task>
     <task id="LOCAL-00001" summary="readme">
       <created>1555168760567</created>
@@ -253,13 +220,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36729000" />
+    <option name="totallyTimeSpent" value="36736000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="25" width="1920" height="1055" extended-state="6" />
+    <frame x="0" y="23" width="1440" height="877" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25506938" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25822604" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -273,7 +240,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Command Line Tools Console" order="10" weight="0.3297414" />
-      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.33045357" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.3299363" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -289,16 +256,35 @@
     <option name="LAST_COMMIT_MESSAGE" value="readme" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.gitignore" />
+    <entry file="file://$PROJECT_DIR$/main.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1830">
+          <caret line="122" column="43" selection-start-line="122" selection-start-column="43" selection-end-line="122" selection-end-column="90" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/carousel_old.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1710">
+        <state relative-caret-position="1425">
           <caret line="95" column="4" selection-start-line="95" selection-start-column="4" selection-end-line="95" selection-end-column="4" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/carousel.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
+        <state relative-caret-position="270">
           <caret line="45" selection-start-line="45" selection-end-line="91" selection-end-column="1" />
           <folding>
             <element signature="e#158#185#0" />
@@ -330,35 +316,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/readme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="122" column="43" lean-forward="true" selection-start-line="122" selection-start-column="43" selection-end-line="122" selection-end-column="90" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/carousel.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="29" column="43" lean-forward="true" selection-start-line="29" selection-start-column="43" selection-end-line="29" selection-end-column="43" />
+        <state relative-caret-position="182">
+          <caret line="42" column="22" selection-start-line="42" selection-start-column="22" selection-end-line="42" selection-end-column="22" />
           <folding>
             <element signature="n#!!block;n#addListenerMulti#0" />
             <element signature="e#150#284#0" />
@@ -367,18 +328,6 @@
             <element signature="e#563#625#0" />
             <element signature="e#677#752#0" />
             <element signature="e#793#840#0" />
-            <element signature="e#1008#4454#0" />
-            <element signature="e#3187#4300#0" />
-            <element signature="e#4485#4501#0" />
-            <element signature="e#4035#4513#0" />
-            <element signature="e#4820#5560#0" />
-            <element signature="e#5930#5946#0" />
-            <element signature="e#4482#6608#0" />
-            <element signature="e#5465#5985#0" />
-            <element signature="e#6075#6600#0" />
-            <element signature="e#6654#7115#0" />
-            <element signature="e#10212#10481#0" />
-            <element signature="e#10510#11360#0" />
           </folding>
         </state>
       </provider>

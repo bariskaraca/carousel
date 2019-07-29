@@ -40,7 +40,7 @@ NodeList.prototype.toArray = function(){
  */
 function Carousel(settings){
     let options = {
-        autoPlay: 5000,
+        autoPlay: 3000,
         animationTime: 5000,
         visibleItemCount: 2,
         transitionTimingFunction: "linear",
